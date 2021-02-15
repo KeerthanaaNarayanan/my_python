@@ -1,0 +1,17 @@
+ID,automated,author,title,description,procedure,initial_setup
+TC001,yes,KNarayanan,edit_cf_action_valid_smoke_test,edit cf action valid smoke test,edit cf action valid smoke test,edit cf action valid smoke test
+TC002,yes,KNarayanan,edit_cf_action_valid_wipe_cookie_True,edit cf action valid wipe cookie True,edit cf action valid wipe cookie True,edit cf action valid wipe cookie True
+TC003,yes,KNarayanan,edit_cf_action_valid_wipe_cookie_False,edit cf action valid wipe cookie False,edit cf action valid wipe cookie False,edit cf action valid wipe cookie False
+TC004,yes,KNarayanan,edit_cf_action_valid_wipe_cookie,edit cf action valid wipe cookie,edit cf action valid wipe cookie,edit cf action valid wipe cookie
+TC005,yes,KNarayanan,edit_cf_action_valid_flow_reporting_True,edit cf action valid flow reporting True,edit cf action valid flow reporting True,edit cf action valid flow reporting True
+TC006,yes,KNarayanan,edit_cf_action_valid_flow_reporting_False,edit cf action valid flow reporting False,edit cf action valid flow reporting False,edit cf action valid flow reporting False
+TC007,yes,KNarayanan,edit_cf_action_valid_flow_reporting,edit cf action valid flow reporting,edit cf action valid flow reporting,edit cf action valid flow reporting
+TC008,yes,KNarayanan,edit_cf_action_valid_page_active_time_10,edit cf action valid page active time 10,edit cf action valid page active time 10,edit cf action valid page active time 10
+TC009,yes,KNarayanan,edit_cf_action_valid_page_active_time_100,edit cf action valid page active time 100,edit cf action valid page active time 100,edit cf action valid page active time 100
+TC010,yes,KNarayanan,edit_cf_action_valid_page_active_time,edit cf action valid page active time,edit cf action valid page active time,edit cf action valid page active time
+TC011,yes,KNarayanan,edit_cf_action_confirm_page_active_time_10,edit cf action confirm page active time 10,edit cf action confirm page active time 10,edit cf action confirm page active time 10
+TC012,yes,KNarayanan,edit_cf_action_confirm_page_active_time_100,edit cf action confirm page active time 100,edit cf action confirm page active time 100,edit cf action confirm page active time 100
+TC013,yes,KNarayanan,edit_cf_action_confirm_page_active_time,edit cf action confirm page active time,edit cf action confirm page active time,edit cf action confirm page active time
+TC014,yes,KNarayanan,edit_cf_action_valid_bwm_aggregation_method_Per Action,edit cf action valid bwm aggregation method Per Action,edit cf action valid bwm aggregation method Per Action,edit cf action valid bwm aggregation method Per Action
+TC015,yes,KNarayanan,edit_cf_action_valid_bwm_aggregation_method_Per Policy,edit cf action valid bwm aggregation method Per Policy,edit cf action valid bwm aggregation method Per Policy,edit cf action valid bwm aggregation method Per Policy
+TC016,yes,KNarayanan,edit_cf_action_valid_bwm_aggregation_method,edit cf action valid bwm aggregation method,edit cf action valid bwm aggregation method,edit cf action valid bwm aggregation method
